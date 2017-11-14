@@ -5,10 +5,10 @@ class Path:
     """
     Locations of the various essential files.
     """
-    raw_data = os.getcwd() + '\\materials\\raw_data.csv'
-    features = os.getcwd() + '\\materials\\features.pkl'
-    labels = os.getcwd() + '\\materials\\labels.pkl'
-    lexicon = os.getcwd() + '\\lexicon.pkl'
-    dir_dataset = os.getcwd() + '\\dataset'
-    count = os.getcwd() + '\\materials\\count.pkl'
+    raw_data = os.getcwd() + "\\materials\\raw_data.csv"
+    features = os.getcwd() + "\\materials\\features.pkl"
+    labels = os.getcwd() + "\\materials\\labels.pkl"
+    lexicon = os.getcwd() + "\\lexicon.pkl"
+    dir_dataset = os.getcwd() + "\\dataset"
+    count = os.getcwd() + "\\materials\\count.pkl"
     model = os.getcwd() + "\\model.hdf5"
