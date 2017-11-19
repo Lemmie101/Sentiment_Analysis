@@ -75,7 +75,7 @@ def demo():
                 print("The sentence is positive.\n")
 
             else:
-                print('\nThe sentence is negative.\n')
+                print('The sentence is negative.\n')
 
 
 if __name__ == '__main__':
